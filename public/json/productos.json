@@ -1,0 +1,242 @@
+[
+    {
+        "id": 12,
+        "nombre": "Kit de herramientas Tramontina",
+        "idCategoria": "Herramientas",
+        "tipo": "Kit de herramientas",
+        "desc": "Kit de herramientas",
+        "precio": 9760,
+        "maceta": "",
+        "img": "/img/kit-morral.png",
+        "stock":10
+    },
+
+    {
+        "id": 19,
+        "nombre": "Sustrato para Cactus y Suculentas",
+        "idCategoria": "Sustratos",
+        "tipo": "Sustratos",
+        "desc": "Sustratos para jardin",
+        "precio": 1110,
+        "maceta": "",
+        "img": "/img/terrafertil-cactus-y-suculentas.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 10,
+        "nombre": "Cactus Espiral",
+        "idCategoria": "Cactus",
+        "tipo": "Spiralis",
+        "desc": "Cactus de exterior",
+        "precio": 1050,
+        "maceta": "12",
+        "img": "/img/spiralis.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 4,
+        "nombre": "Kiwi",
+        "idCategoria": "Suculentas",
+        "tipo": "Aeonium",
+        "desc": "Suculenta de exterior, para sol moderado",
+        "precio": 800,
+        "maceta": "12",
+        "img": "/img/sucu4.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 17,
+        "nombre": "Sustrato para plantas de interior",
+        "idCategoria": "Sustratos",
+        "tipo": "Sustratos",
+        "desc": "Sustratos para jardin",
+        "precio": 1560,
+        "maceta": "",
+        "img": "/img/interior-grande.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 5,
+        "nombre": "Jade",
+        "idCategoria": "Suculentas",
+        "tipo": "Crassula",
+        "desc": "Suculenta de exterior, para sol moderado",
+        "precio": 1200,
+        "maceta": "12",
+        "img": "/img/sucu5.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 6,
+        "nombre": "Garra de oso",
+        "idCategoria": "Suculentas",
+        "tipo": "Cotyledon",
+        "desc": "Suculenta de exterior, para sol moderado",
+        "precio": 650,
+        "maceta": "12",
+        "img": "/img/sucu6.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 7,
+        "nombre": "Compost",
+        "idCategoria": "Sustratos",
+        "tipo": "Sustratos",
+        "desc": "Compost",
+        "precio": 1143,
+        "maceta": "",
+        "img": "/img/compost.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 1,
+        "nombre": "Crasa",
+        "idCategoria": "Suculentas",
+        "tipo": "Echeveria",
+        "desc": "Suculenta de exterior, para sol moderado",
+        "precio": 750,
+        "maceta": "14",
+        "img": "/img/sucu1.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 8,
+        "nombre": "Castillo de Hadas",
+        "idCategoria": "Cactus",
+        "tipo": "Cactaceae",
+        "desc": "Cactus de exterior",
+        "precio": 990,
+        "maceta": "12",
+        "img": "/img/castillo.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 2,
+        "nombre": "Echeveria",
+        "idCategoria": "Suculentas",
+        "tipo": "Echeveria",
+        "desc": "Suculenta de exterior, para sol moderado",
+        "precio": 600,
+        "maceta": "12",
+        "img": "/img/sucu2.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 9,
+        "nombre": "Stapelia",
+        "idCategoria": "Cactus",
+        "tipo": "Stapelia",
+        "desc": "Cactus de exterior",
+        "precio": 750,
+        "maceta": "12",
+        "img": "/img/Stapelia.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 11,
+        "nombre": "Nopalillo",
+        "idCategoria": "Cactus",
+        "tipo": "Opuntia Microdasys",
+        "desc": "Cactus de exterior",
+        "precio": 760,
+        "maceta": "12",
+        "img": "/img/Microdasys.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 3,
+        "nombre": "Aeonium",
+        "idCategoria": "Suculentas",
+        "tipo": "Aeonium",
+        "desc": "Suculenta de exterior, con sol pleno obtiene un color oscuro",
+        "precio": 900,
+        "maceta": "12",
+        "img": "/img/sucu3.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 13,
+        "nombre": "Kit de herramientas en estuche",
+        "idCategoria": "Herramientas",
+        "tipo": "Kit de herramientas",
+        "desc": "Estuche de herramientas",
+        "precio": 5650,
+        "maceta": "",
+        "img": "/img/kit-de-jardineria.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 14,
+        "nombre": "Tijeras de poda",
+        "idCategoria": "Herramientas",
+        "tipo": "Herramientas de jardin",
+        "desc": "Herramientas de jardin",
+        "precio": 6500,
+        "maceta": "",
+        "img": "/img/tijeras-poda.png",
+        "stock":10
+    },
+
+    {
+        "id": 15,
+        "nombre": "Set de Herramientas",
+        "idCategoria": "Herramientas",
+        "tipo": "Herramientas de jardin",
+        "desc": "Herramientas de jardin",
+        "precio": 1260,
+        "maceta": "",
+        "img": "/img/set-jardin.png",
+        "stock":10
+    },
+
+    {
+        "id": 16,
+        "nombre": "Guantes de jardineria",
+        "idCategoria": "Herramientas",
+        "tipo": "Herramientas de jardin",
+        "desc": "Herramientas de jardin",
+        "precio": 560,
+        "maceta": "",
+        "img": "/img/guantes.jfif",
+        "stock":10
+    },
+
+    {
+        "id": 18,
+        "nombre": "Sustrato para huertas",
+        "idCategoria": "Sustratos",
+        "tipo": "Sustratos",
+        "desc": "Sustratos para jardin",
+        "precio": 2495,
+        "maceta": "",
+        "img": "/img/huertas_grande.jpg",
+        "stock":10
+    },
+
+    {
+        "id": 20,
+        "nombre": "Tierra fertil para jardin",
+        "idCategoria": "Sustratos",
+        "tipo": "Sustratos",
+        "desc": "Sustratos para jardin",
+        "precio": 1110,
+        "maceta": "",
+        "img": "/img/tierra-fertil-jardin.jpg",
+        "stock":10
+    }
+
+]
